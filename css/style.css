@@ -8,6 +8,10 @@ body{
     background-color: #222;
     color: #fff;
     font-family: system-ui;
+    background-image: url(../imgs/960_720.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 /* Inputs Styling */
